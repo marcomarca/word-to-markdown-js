@@ -54,4 +54,4 @@ One note: This project does not yet attempt to guess heading levels based on fon
 
 1. Clone the repo
 2. Run `npm install`
-3. Run `w2m path/to/your/file.docx`
+3. Run `npx w2m path/to/your/file.docx`
